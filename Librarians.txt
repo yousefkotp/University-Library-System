@@ -1,0 +1,2 @@
+yousef,123,yousef@gmail.com,faculty,Alexandria,5932325342,1
+kotp,pass,kotp@gmail.com,lolxd,Cairo,0106548845315,5
